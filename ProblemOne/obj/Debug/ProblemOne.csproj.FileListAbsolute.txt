@@ -1,0 +1,7 @@
+D:\Aiub\Semester-7\C# code\ProblemOne\ProblemOne\bin\Debug\ProblemOne.exe.config
+D:\Aiub\Semester-7\C# code\ProblemOne\ProblemOne\bin\Debug\ProblemOne.exe
+D:\Aiub\Semester-7\C# code\ProblemOne\ProblemOne\bin\Debug\ProblemOne.pdb
+D:\Aiub\Semester-7\C# code\ProblemOne\ProblemOne\obj\Debug\ProblemOne.csprojAssemblyReference.cache
+D:\Aiub\Semester-7\C# code\ProblemOne\ProblemOne\obj\Debug\ProblemOne.csproj.CoreCompileInputs.cache
+D:\Aiub\Semester-7\C# code\ProblemOne\ProblemOne\obj\Debug\ProblemOne.exe
+D:\Aiub\Semester-7\C# code\ProblemOne\ProblemOne\obj\Debug\ProblemOne.pdb
